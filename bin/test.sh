@@ -3,7 +3,7 @@
 # @Last Change: 24-Dez-2004.
 # @Revision:    0.0
 
-for i in $(seq 1 1); do
+for i in $(seq 1 10); do
     echo "Step $i..."
     sleep 1
 done
