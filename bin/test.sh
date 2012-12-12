@@ -10,6 +10,7 @@ for i in $(seq 1 10); do
     sleep 1
 done
 
+# Always report fail
 exit -1
 
 # vi: 
