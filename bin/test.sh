@@ -6,6 +6,7 @@
 # Iterate 
 for i in $(seq 1 10); do
     echo "Step $i..."
+    # And sleep
     sleep 1
 done
 
